@@ -104,8 +104,8 @@ Status code - 200 OK
     "concepts_to_study": ["Interactive learning design", "AI-powered features"],
     "ai_frameworks_to_learn": ["LangChain"]
   },
-  "questions_to_ask_recruiter": []
-} ro 
+"questions_to_ask_recruiter": ["What are the key challenges the engineering team is currently facing?", "Can you provide more details about the product roadmap and upcoming features?"]
+}
 ```
 ### Errors:
 
